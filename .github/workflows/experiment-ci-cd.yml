@@ -67,4 +67,4 @@ jobs: #Define os 3 Jobs que serão executados no workflow
         with:
           artifacts: "experiment-ci-cd.bin" #Artefato que será criado na release
           tag: 0.1.5 #Tag do release
-          bodyFile: "body.md" #Arquivo contendo o corpo do release
+          bodyFile: "body.md" #Arquivo contendo o corpo do release 
